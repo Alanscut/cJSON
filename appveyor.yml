@@ -1,4 +1,4 @@
-os: Visual Studio 2015
+os: Visual Studio 2019
 
 # ENABLE_CUSTOM_COMPILER_FLAGS - on by default
 # ENABLE_SANITIZERS - off by default
